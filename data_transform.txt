@@ -1,0 +1,4 @@
+
+Regla_1 : validación de 8 caracteres
+Regla-2 : 
+Regla_3 : 
