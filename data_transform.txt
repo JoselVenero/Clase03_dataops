@@ -1,5 +1,5 @@
 --Reglas de validaciones
 Regla_1 : validación de 8 caracteres para DNI.
 Regla-2 : validación de 9 dígitos para números celulares.
-Regla_3 : validación de existencia de correo e. in ('@','.com.pe')
-Regla 4 : Reemplace espacio en blanco ' ' por la palabra 'VACÍO'
+Regla_3 : validación de existencia de correo e. in ('@','.com')
+Regla 4 : Reemplace espacio en blanco ' ' por la palabra 'NULL'
